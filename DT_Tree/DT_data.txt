@@ -1,0 +1,17 @@
+green curlup dullresonunce clear sunken hardenslip 0.697 0.46 yes
+blank curlup depressing clear sunken hardenslip 0.774 0.376 yes
+blank curlup dullresonunce clear sunken hardenslip 0.634 0.264 yes
+green curlup depressing clear sunken hardenslip 0.608 0.318 yes
+white curlup dullresonunce clear sunken hardenslip 0.556 0.215 yes
+green curlup dullresonunce clear Slightysunken softglue 0.403 0.237 yes
+blank curlup dullresonunce Slightlypaste Slightysunken softglue 0.481 0.149 yes
+blank curl dullresonunce clear Slightysunken hardenslip 0.437 0.211 yes
+blank curl depressing Slightlypaste Slightysunken hardenslip 0.666 0.091 no 
+green stiff clear clear flat softglue 0.243 0.267 no 
+white stiff clear paste flat hardenslip 0.245 0.057 no
+white curlup dullresonunce paste flat softglue 0.343 0.099 no
+green curl dullresonunce Slightlypaste sunken hardenslip 0.639 0.161 no
+white curl depressing Slightlypaste sunken hardenslip 0.657 0.198 no
+blank curl dullresonunce clear Slightysunken softglue 0.36 0.37 no 
+white curlup dullresonunce paste flat hardenslip 0.593 0.042 no
+green curlup depressing Slightlypaste Slightysunken hardenslip 0.719 0.103 no
